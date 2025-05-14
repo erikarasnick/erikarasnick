@@ -1,4 +1,4 @@
-## Hi there 👋
+I am a Senior Biostatistician and Epidemiologist at Cincinnati Children's Hospital with a strong foundation in statistical modeling, spatial analysis, and reproducible research workflows. I lead data-driven investigations into environmental and social determinants of health using R. My work focuses on advancing population health through rigorous, scalable methods for integrating geospatial and clinical data.
 
 <!--
 **erikarasnick/erikarasnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
